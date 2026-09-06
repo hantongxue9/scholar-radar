@@ -23,6 +23,29 @@
     "id": 19803
   },
   {
+    "title": "УНИВЕРЗИТЕТСКА БИБЛИОТЕКА И ПОДРШКА ДОКТОРСКИМ СТУДИЈАМА: РАД НА ДОДАТНОМ ОБРАЗОВАЊУ МЛАЂИХ ИСТРАЖИВАЧА",
+    "abstract": "Summary This paper presents a range of activities carried out by the University Library “Svetozar Marković” that are related to doctoral dissertations and doctoral studies. It provides an overview of educational programs and other information services that were ultimately consolidated and systematized in 2022 through the establishment of the Centre for Doctoral Studies Support (CDSS). The founding of the Centre marked a key milestone, not only in bringing together existing activities related to doctoral studies but also as an important prerequisite for their further development. In the years that followed, with the support of the Ministry of Science, Technological Development and Innovation of the Republic of Serbia, the Centre launched an extensive educational program comprising seminars, presentations, and workshops on topics important to scientific research. By mid-2026, the program had engaged dozens of distinguished lecturers and attracted several thousand participants. In addition to cooperating with partner institutions—centers affiliated with university libraries at other universities in Serbia—the CDSS seeks to strengthen its communication with doctoral students to ensure the continuous evaluation and improvement of its work. All activities are carried out with the aim of fulfilling the Centre’s mission: to enhance the research activities of higher education institutions by assisting members of the academic community who are at the very beginning of their scientific careers.",
+    "date": "2026-12-12",
+    "link": "https://doi.org/https://doi.org/10.5281/zenodo.22271559",
+    "affiliations": "Dragana Stolić",
+    "source": "OpenAlex - LIS",
+    "tier": "C",
+    "field": "information_science",
+    "content_type": "paper",
+    "category": "其他",
+    "thinking": "该论文系统介绍了贝尔格莱德大学图书馆通过设立博士研究支持中心，整合并拓展面向青年研究人员的教育培训与信息服务。研究基于实际工作复盘，具有明确的实践导向和机构落地价值，但技术前沿性和研究方法的严谨性相对有限，属于典型的图书馆服务创新案例。",
+    "scores": {
+      "frontier_tech": 3,
+      "practical_value": 9,
+      "methodological_rigor": 6
+    },
+    "one_sentence_summary": "论文介绍了贝尔格莱德大学图书馆通过成立专门中心，系统化支持博士生科研能力培养的服务模式与实践经验。",
+    "credibility_score": 6.2,
+    "composite_score": 5.9,
+    "featured": false,
+    "id": 20020
+  },
+  {
     "title": "Auf dem Weg zu einer niedersachsenweit getragenen Diamond-Open-Access-Publikationsinfrastruktur. Bericht des Vorprojekts NiedersachsenPUBLISHING",
     "abstract": "Mit NiedersachsenPUBLISHING soll Wissenschaftler*innen eine verteilte technische Infrastruktur zur Veröffentlichung ihrer Diamond-Open-Access-Publikationen sowie darauf abgestimmte Beratungsdienstleistungen zur Verfügung gestellt werden. Initiatoren und Träger dieser Publikationsinfrastruktur sind die 23 wissenschaftlichen Bibliotheken des Landes Niedersachsen, die mit dem Angebot einer Marke für das Diamond-Open-Access-Publizieren die Verbreitung kostenfreier, wissenschaftsgeleiteter Veröffentlichungen ermöglichen wollen.Im Rahmen des Vorprojekts NiedersachsenPUBLISHING (Laufzeit: August 2025 bis September 2026) wurden Grundlagen für den Aufbau der Diamond-Open-Access- Publikationsinfrastruktur untersucht und Empfehlungen für deren Ausgestaltung erarbeitet. Daneben wurden technische, rechtliche und organisatorische Voraussetzungen an den niedersächsischen Bibliotheken erhoben, mögliche nationale und internationale Kooperationspartnerschaften und Synergieeffekte ausgelotet sowie die Bedarfe von Wissenschaftler*innen und akzeptanzfördernde Maßnahmen für Diamond Open Access ermittelt.Im vorliegenden Bericht werden ausgewählte Erkenntnisse der durchgeführten Erhebungen, Gespräche und Analysen (Literatur-Review, Fokusgruppen-Interviews, Umfeldanalyse, Gespräche zu Synergien und Anschlussfähigkeit sowie Erhebung von Metadaten-Standards) vorgestellt. Diese werden im Sinne einer Ergebnis-Triangulation sowie unter Hinzunahme weiterer Quellen zu Themenkomplexen zusammengeführt und mit Blick auf daraus resultierende Kernanforderungen an eine Diamond-Open Access-Publikationsinfrastruktur zusammengefasst. Das Vorprojekt NiedersachsenPUBLISHING wird im Rahmen von zukunft.niedersachsen gefördert, einem Förderprogramm der VolkswagenStiftung und dem Niedersächsischen Ministerium für Wissenschaft und Kultur Niedersachsen (MWK), und ist eingebunden in die Dachinitiative Hochschule.digital Niedersachsen.",
     "date": "2026-09-28",
@@ -11475,28 +11498,5 @@
     "composite_score": 6.4,
     "featured": false,
     "id": 17347
-  },
-  {
-    "title": "From Click Modeling to Offline and Off-Policy Evaluation in Carousel Recommendation",
-    "abstract": "arXiv:2608.22022v1 Announce Type: new \nAbstract: Carousel interfaces are widely used in modern recommendation systems. Unlike traditional interfaces that present a single ranked list, carousels simultaneously present several ranked lists to the user, as horizontally swipeable rows stacked on top of each other. In this design, the rankings are closely tied to the two-dimensional layout. Consequently, user behavior is shaped not only by item preference, but also by row organization, viewport constraints, and item context. This tight coupling between ranking and presentation complicates the interpretation of user feedback, introducing new challenges for recommendation evaluation.\n  My PhD research aims to address these challenges by rethinking how carousel clicks are modeled and how carousel recommendation policies can be evaluated from logged interaction data. So far, I have studied how users interact with carousel interfaces and developed a click model design framework that prioritizes mathematical relationships between observed variables over latent behavioral assumptions. Building on these results, my ongoing work includes a project using discrete choice models to represent clicks as choices, alongside a project that develops carousel-specific offline metrics. As a next step, I plan to develop off-policy evaluation methods that estimate the performance of recommendation policies from logged interactions. Taken together, the expected contribution of my thesis is a connected body of work that links carousel click modeling with offline and off-policy evaluation, so that carousel recommendation policies can be improved more reliably.",
-    "date": "2026-08-25",
-    "link": "https://arxiv.org/abs/2608.22022",
-    "affiliations": "",
-    "source": "arXiv - Information Retrieval",
-    "tier": "C",
-    "field": "information_retrieval",
-    "content_type": "paper",
-    "category": "检索与推荐",
-    "thinking": "该论文聚焦于轮播推荐这一现代推荐系统界面，提出了结合点击建模与离线/离策略评估的框架，在方法学上具有前沿性。其研究紧密结合实际应用场景，但作为博士研究计划，其方法严谨性和实际落地效果仍需后续完整研究来验证。",
-    "scores": {
-      "frontier_tech": 9,
-      "practical_value": 7,
-      "methodological_rigor": 6
-    },
-    "one_sentence_summary": "该研究旨在为轮播界面推荐系统建立一套从用户点击行为建模到策略离线评估的完整方法学框架。",
-    "credibility_score": 6.0,
-    "composite_score": 6.3,
-    "featured": false,
-    "id": 17348
   }
 ]

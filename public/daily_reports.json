@@ -1,18 +1,19 @@
 [
   {
-    "date": "2026-09-05",
-    "summary": "今日图情领域的研究呈现出以人工智能应用为核心、并持续关注评价体系与用户行为的多元化趋势。在AI应用方面，研究重点从通用任务转向更具挑战性的垂直领域（如医疗推理、虚假信息检测）和复杂任务（如表格问答、会话推荐），并强调通过知识增强（如知识图谱）、新方法（如扩散模型、智能体规划）来提升模型的准确性、公平性和可解释性。同时，对生成式AI影响的研究深入至用户技能发展机制与信息验证行为，体现了从技术效能到社会影响的视角拓展。在计量与评价领域，研究关注超高被引论文对排名的影响及科学知识图谱方法的可复现性，反映了对评价方法科学性和透明度的持续追求。知识组织与语义化技术继续为提升学术资源发现与利用效率提供支持。",
+    "date": "2026-09-06",
+    "summary": "今日图情领域的研究呈现出两个核心焦点。其一，人工智能应用的深化与反思成为主流，研究不仅关注生成式AI在信息检索、知识组织及创意设计等场景的实际效能与评估方法，更深入探讨了人机协作的微观机制（如馆员指导与AI认知权威的交互）、AI模型公平性与偏见缓解策略，以及用户持续使用行为背后的双因素驱动模型。其二，学术生态的量化分析与规范研究持续受到关注，重点探讨了AI工具（如大语言模型）的采用如何影响学术成果的可见度与引用，以及“贡献均等”等评价政策对作者署名行为的潜在扭曲效应，揭示了技术采纳与学术规范间的复杂张力。",
     "highlights": [
-      "论文｜KG-ACE: Knowledge Graph Alignment and Consistency Enhancement for medical reasoning with large language models｜提出通过增强知识图谱对齐来提升大语言模型在专业领域的推理可靠性，是AI与领域知识深度融合的代表性工作。",
-      "论文｜Determinants of information verification behaviour among generative AI users｜采用混合研究方法系统揭示了生成式AI用户信息验证行为的影响因素，对信息素养教育具有直接指导意义。",
-      "动态｜PAIRE: A testbed for measuring dataset diversity and model fairness under limited sensitive information｜推出了一个评估AI模型公平性的新测试平台，回应了图情领域对算法伦理与负责任AI的关切。",
-      "动态｜Biblioshiny and the SAAS Workflow: An integrated framework for transparent and reproducible science mapping｜为科学知识图谱研究提供了提升透明度和可复现性的方法论框架，有助于规范该领域的研究实践。",
-      "趋势判断｜AI应用研究正从通用任务向垂直领域与复杂场景深化，并更加强调与领域知识结合、提升可解释性及关注社会影响。"
+      "论文｜Who gets seen in the age of AI? Adoption patterns of large language models in scholarly writing and citation outcomes｜实证研究了学者使用大语言模型写作与其论文被引用率之间的关系，为理解AI如何重塑学术影响力提供了关键证据。",
+      "论文｜Is equal credit really equal? The impact of academic evaluation policies on authorship decisions｜通过实证分析揭示了‘贡献均等’署名政策在实践中的非预期后果，对完善科研诚信与作者署名规范有重要启示。",
+      "论文｜AI-mediated information intermediation in collaborative problem-solving: Effects of librarian guidance intensity and cognitive authority perceptions on student teams' creative outcomes｜探讨了在AI辅助的团队协作中，图书馆员专业指导与学生对AI的信任度如何共同作用于创造性成果，为人机协同信息服务的优化提供了洞见。",
+      "动态｜Evaluating the digital curation of library political special collections with the Honeycomb Model and Feminist HCI｜提出了一个融合可用性指标与女性主义关怀伦理的评估框架，为图书馆特藏数字策展实践提供了创新的评估工具。",
+      "动态｜Development and preliminary validation of a scale for evaluating the effectiveness of generative AI in museum cultural and creative product design｜开发了首个针对生成式AI在博物馆文创设计中应用效果的专用评估量表，推动了相关实践评估的标准化。",
+      "趋势判断｜AI应用研究从功能探索转向效能评估与人机协同机制｜当前研究重点正从‘AI能做什么’转向‘AI做得如何’以及‘人如何与AI更好地协作’，强调评估方法、公平性、用户体验与中介因素。"
     ],
     "stats": {
-      "papers": 166,
-      "news": 135,
-      "featured": 74
+      "papers": 128,
+      "news": 118,
+      "featured": 62
     }
   },
   {
