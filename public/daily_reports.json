@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-09-07",
+    "summary": "今日图情领域的研究呈现出对人工智能应用深度与广度并重、以及对学术评价体系反思的两大趋势。在AI应用方面，研究重点从基础能力转向应用后果与伦理考量，例如探讨大语言模型采纳对学术可见度与引文的影响、AI工具对用户协作与技能发展的差异化作用，以及如何在敏感信息有限条件下评估模型公平性。同时，针对IP定位、知识图谱推荐、联邦学习等具体技术场景的模型优化研究持续涌现。另一方面，学术评价与传播机制研究受到关注，包括超级高被引论文对排名系统的潜在扭曲效应，以及通过博弈论模型优化同行评审公平性与效率的新方案。用户行为研究则深入在线社区，关注意见领袖的动态识别机制。",
+    "highlights": [
+      "论文｜Who gets seen in the age of AI? Adoption patterns of large language models in scholarly writing and citation outcomes｜实证揭示了在学术写作中使用大语言模型与论文后续引文表现之间的关联，对理解AI如何重塑学术影响力传播具有重要价值。",
+      "论文｜Efficient peer review via a fairness-aware priority mechanism: Game theoretic modelling and evaluation｜运用博弈论构建了一种新的同行评审优先级分配机制，为提升审稿流程的公平性与效率提供了严谨的理论模型。",
+      "动态｜Exploring the impact of super-cited papers on counting methods, counting inflation and university rankings: Evidence from engineering｜以工程学为例，实证分析了超级高被引论文如何扭曲引文计数与大学排名，对改进科研评价指标具有警示意义。",
+      "动态｜Community's lifeline: Dynamically identifying the short-term emergence and long-term survival of opinion leaders in diabetes online communities｜提出了一种动态识别在线健康社区意见领袖的方法，有助于优化社区信息治理与知识服务策略。",
+      "动态｜PAIRE: A testbed for measuring dataset diversity and model fairness under limited sensitive information｜推出了一个评估AI模型公平性的新测试平台，重点解决了敏感信息不全场景下的评估难题，对负责任AI研究有工具贡献。",
+      "趋势判断｜AI应用研究从关注性能提升转向关注社会影响与伦理风险，同时学术评价体系面临对极端引文现象和评审流程公平性的深度反思。"
+    ],
+    "stats": {
+      "papers": 129,
+      "news": 125,
+      "featured": 66
+    }
+  },
+  {
     "date": "2026-09-06",
     "summary": "今日图情领域的研究呈现出两个核心焦点。其一，人工智能应用的深化与反思成为主流，研究不仅关注生成式AI在信息检索、知识组织及创意设计等场景的实际效能与评估方法，更深入探讨了人机协作的微观机制（如馆员指导与AI认知权威的交互）、AI模型公平性与偏见缓解策略，以及用户持续使用行为背后的双因素驱动模型。其二，学术生态的量化分析与规范研究持续受到关注，重点探讨了AI工具（如大语言模型）的采用如何影响学术成果的可见度与引用，以及“贡献均等”等评价政策对作者署名行为的潜在扭曲效应，揭示了技术采纳与学术规范间的复杂张力。",
     "highlights": [

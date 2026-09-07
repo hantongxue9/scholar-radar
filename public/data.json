@@ -69,6 +69,29 @@
     "id": 19556
   },
   {
+    "title": "Accountability, Integrity: AI Policy in Public Libraries (New Journal Article)",
+    "abstract": "<p>The article linked below was published by Public Library Quarterly. Title Accountability, Integrity: AI Policy in Public Libraries Authors Kathryn FitzGerald University of Washington Benjamin Lee University of Washington Source Public Library Quarterly DOI: 10.1080/01616846.2026.2725502 Abstract As artificial intelligence reshapes both library work and the information environment, public libraries must determine whether or how to [&#8230;]</p>\n<p>The post <a href=\"https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/\">Accountability, Integrity: AI Policy in Public Libraries (New Journal Article)</a> appeared first on <a href=\"https://www.infodocket.com\">Library Journal infoDOCKET</a>.</p>",
+    "date": "2026-09-06",
+    "link": "https://www.infodocket.com/2026/09/06/accountability-integrity-ai-policy-in-public-libraries-new-journal-article/",
+    "affiliations": "University of Washington Benjamin Lee University of Washington Source Public Library Quarterly DOI: 10.",
+    "source": "Infodocket",
+    "tier": "C",
+    "field": "library_news",
+    "content_type": "news",
+    "category": "观点评论",
+    "thinking": "该资讯报道了一篇2026年发表的学术文章，内容聚焦于人工智能政策在公共图书馆中的应用，具有明确的时效性和领域相关性。文章探讨AI对图书馆工作的影响及政策制定，为从业者提供了理论参考和实践思考，信息价值较高。",
+    "scores": {
+      "timeliness": 10,
+      "relevance": 9,
+      "information_value": 8
+    },
+    "one_sentence_summary": "一篇新发表的学术文章探讨了公共图书馆在人工智能时代如何制定相关政策以保持责任与诚信。",
+    "credibility_score": 6.0,
+    "composite_score": 8.4,
+    "featured": true,
+    "id": 20233
+  },
+  {
     "title": "How does AI literacy shape technology acceptance? A cross-sectional study among library professionals",
     "abstract": "",
     "date": "2026-09-04",
@@ -11475,28 +11498,5 @@
     "composite_score": 6.1,
     "featured": false,
     "id": 17346
-  },
-  {
-    "title": "Enhancing Group Recommendation with Memory-Augmented Reasoning in LLM Agent",
-    "abstract": "arXiv:2608.21939v1 Announce Type: new \nAbstract: The core challenge in group recommendation lies in modeling the dynamic evolution of user preferences and explain?ing the consensus formation process. Existing Large Language Model (LLM)-based methods, despite improved interpretability, treat interaction history as fixed text, ignoring the natural evolution of group/user preferences over time, and lacking explicit modeling of the complex group decision-making process. To address these issues, we propose AGR, a LLM-based agent, which consists of a Memory Module and a Reasoning Module. The Memory Module employs a token-based hash table to dynamically manage the historical interactions of groups and users. This design supports fundamental operations including insertion, updating, retrieval, forgetting of irrelevant records, and summarization of evolving group and user profiles for efficiently tracking. Based on these retrieved dynamic profiles, the Reason?ing Module then performs a multi-step reasoning process includ?ing Group Interests Collection, Group Consensus Refinement, Multi-dimensional Evaluation and Explainable Recommendation Generation, thereby moving beyond black-box inference to de?liver fully interpretable recommendations. In practice, we adopt the Reinforcement Fine-Tuning (RFT) paradigm, where we first use Supervised Fine-Tuning (SFT) to equip the model with basic capabilities for invoking the Memory and Reasoning modules, and then employ Group Relative Policy Optimization (GRPO) to enhance its autonomous ability to coordinate these modules. Experiments on LastFM and Douban datasets demonstrate that AGR significantly outperforms existing state-of-the-art methods in both recommendation accuracy and explainability. Our model is open-sourced at https://huggingface.co/niuqimeng/AGR.",
-    "date": "2026-08-25",
-    "link": "https://arxiv.org/abs/2608.21939",
-    "affiliations": "",
-    "source": "arXiv - Information Retrieval",
-    "tier": "C",
-    "field": "information_retrieval",
-    "content_type": "paper",
-    "category": "AI应用",
-    "thinking": "该论文提出了一种基于大语言模型代理的增强型群组推荐方法，通过引入记忆模块来动态管理用户偏好演变，并采用多步推理模块来模拟群体共识形成过程，在技术前沿性和方法创新性上表现突出。其方法在公开数据集上验证了有效性，并开源了模型，具有较好的可复现性和潜在应用价值，但作为预印本论文，其方法在真实图书馆或信息服务机构中的具体落地场景和挑战尚未充分探讨。",
-    "scores": {
-      "frontier_tech": 9,
-      "practical_value": 6,
-      "methodological_rigor": 8
-    },
-    "one_sentence_summary": "该研究提出了一种能动态追踪用户偏好变化并解释群体决策过程的智能推荐代理，在准确性和可解释性上优于现有方法。",
-    "credibility_score": 6.0,
-    "composite_score": 6.4,
-    "featured": false,
-    "id": 17347
   }
 ]
