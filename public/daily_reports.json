@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-09-08",
+    "summary": "今日图情领域的研究呈现出以人工智能深度应用为核心、兼顾技术与人文社会影响的鲜明特征。在技术层面，研究重点从通用模型转向面向特定领域（如医学、金融、交通）的优化与评估，强调在低资源、高敏感（如隐私、公平性）场景下的可靠性与适应性。例如，有研究致力于提升医学问答的准确性，或构建评估模型公平性的测试平台。同时，知识增强技术（如知识图谱的模式挖掘、语义联邦学习）持续推动检索推荐与数据分析的智能化。在应用与影响层面，研究关注人机协同（如馆员在AI中介环境中的角色）、评价体系（如超高被引文献对排名的影响）以及信息传播的社会维度（如政治广告策略），体现了图情学科连接技术、信息与社会的桥梁作用。",
+    "highlights": [
+      "论文｜AI-mediated information intermediation in collaborative problem-solving: Effects of librarian guidance intensity and cognitive authority perceptions on student teams' creative outcomes｜揭示了在AI作为信息中介的协作环境中，专业馆员指导的强度与用户对AI的认知权威感知如何共同塑造团队的创意结果。",
+      "论文｜Exploring the impact of super-cited papers on counting methods, counting inflation and university rankings: Evidence from engineering｜以工程学为例，实证分析了超高被引论文如何扭曲文献计量结果和大学排名，对科研评价方法具有重要警示意义。",
+      "动态｜LanMe: Exploration and evaluation of multilingual LLMs for low-resource finance in Southeast Asia｜针对东南亚低资源金融场景评估多语言大模型，体现了AI应用研究对区域性与领域性差异的关注。",
+      "动态｜PAIRE: A testbed for measuring dataset diversity and model fairness under limited sensitive information｜构建了一个在敏感信息受限条件下系统评估数据集多样性与模型公平性的测试平台，回应了AI伦理治理的实践需求。",
+      "趋势判断｜领域化、可信化与评估精细化成为AI在图情领域应用的主要演进方向｜研究焦点从通用模型转向医学、金融等垂直领域的可靠应用，并同步加强对其公平性、隐私影响及社会效应的系统性评估。"
+    ],
+    "stats": {
+      "papers": 158,
+      "news": 127,
+      "featured": 62
+    }
+  },
+  {
     "date": "2026-09-07",
     "summary": "今日图情领域的研究呈现出对人工智能应用深度与广度并重、以及对学术评价体系反思的两大趋势。在AI应用方面，研究重点从基础能力转向应用后果与伦理考量，例如探讨大语言模型采纳对学术可见度与引文的影响、AI工具对用户协作与技能发展的差异化作用，以及如何在敏感信息有限条件下评估模型公平性。同时，针对IP定位、知识图谱推荐、联邦学习等具体技术场景的模型优化研究持续涌现。另一方面，学术评价与传播机制研究受到关注，包括超级高被引论文对排名系统的潜在扭曲效应，以及通过博弈论模型优化同行评审公平性与效率的新方案。用户行为研究则深入在线社区，关注意见领袖的动态识别机制。",
     "highlights": [
@@ -161,23 +177,6 @@
       "papers": 252,
       "news": 123,
       "featured": 67
-    }
-  },
-  {
-    "date": "2026-08-25",
-    "summary": "今日图情领域研究呈现两大核心趋势：一是人工智能，尤其是大语言模型，在信息组织、检索与分析中的深度应用与影响评估；二是对学术交流质量与过程透明度的持续关注。在AI应用方面，研究焦点从基础能力拓展至解决具体问题，如通过神经干预减少大语言模型的事实性错误、开发领域专用模型（如地理空间查询生成），以及探索人机协作中指导策略与认知权威的匹配关系。在计量与评价领域，研究不仅关注学术产出的影响力（如AI辅助写作与引用关联），更深入探讨学术文献中存在的问题论文的识别与分析，并致力于通过开发集成化、可复现的工作流程来提升科学知识图谱研究的严谨性。",
-    "highlights": [
-      "论文｜LLM-Assisted writing in engineering is associated with higher citations as evidenced from 1.17 million papers｜基于大规模数据揭示了工程学领域AI辅助写作与论文后续影响力的潜在关联。",
-      "论文｜LANCET: Neural intervention via Structural Entropy for mitigating faithfulness hallucinations in LLMs｜提出一种基于结构熵的神经干预新方法，为缓解大语言模型的事实性幻觉问题提供了技术思路。",
-      "论文｜The landscape of problematic papers in the field of non-coding RNA｜运用计量学方法系统揭示特定学科领域内问题论文的特征与分布，对学术质量监控具有参考价值。",
-      "动态｜AI-mediated information intermediation in collaborative problem-solving: Effects of librarian guidance intensity and cognitive authority perceptions on student teams' creative outcomes｜实证研究了在AI辅助协作学习中，馆员指导策略如何与用户对AI的认知交互影响团队创造力。",
-      "动态｜PostGISer: The first end-to-end fine-tuned large language model for PostGIS GeoSQL query generation｜发布了首个专门针对地理空间查询生成的微调大语言模型，推动了领域专用AI工具的发展。",
-      "趋势判断｜AI应用研究正从通用能力探索转向解决信息处理中的具体、复杂问题，如事实性、领域适配性及人机协作策略。"
-    ],
-    "stats": {
-      "papers": 191,
-      "news": 130,
-      "featured": 64
     }
   }
 ]
