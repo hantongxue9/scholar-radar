@@ -69,6 +69,52 @@
     "id": 19556
   },
   {
+    "title": "Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg",
+    "abstract": "<p>Today's interview with Sylvia Chou and Alexa Romberg, formerly of NIH, sheds some light on censorship at the agency and the damage it's doing to health research.</p>\n<p>The post <a href=\"https://scholarlykitchen.sspnet.org/2026/09/08/up-close-and-personal-with-the-trump-administrations-nih-funding-cuts-an-interview-with-sylvia-chou-and-alexa-romberg/\">Up Close and Personal with the Trump Administration’s NIH Funding Cuts: An Interview with Sylvia Chou and Alexa Romberg</a> appeared first on <a href=\"https://scholarlykitchen.sspnet.org\">The Scholarly Kitchen</a>.</p>",
+    "date": "2026-09-08",
+    "link": "https://scholarlykitchen.sspnet.org/2026/09/08/up-close-and-personal-with-the-trump-administrations-nih-funding-cuts-an-interview-with-sylvia-chou-and-alexa-romberg/",
+    "affiliations": "",
+    "source": "Scholarly Kitchen",
+    "tier": "C",
+    "field": "scholarly_publishing",
+    "content_type": "news",
+    "category": "观点评论",
+    "thinking": "该资讯内容聚焦于美国前政府时期的NIH资金削减及其对健康研究的影响，属于回顾性访谈，时效性一般。其核心议题（科研资助、审查制度）与图情领域关注的科研政策、开放获取环境有一定关联，但直接相关性有限。资讯提供了对特定历史事件的内部视角，对理解科研资助政策环境有参考价值，但并非当前可操作的行业信息。",
+    "scores": {
+      "timeliness": 4,
+      "relevance": 6,
+      "information_value": 5
+    },
+    "one_sentence_summary": "这是一篇回顾特朗普政府时期美国国立卫生研究院（NIH）资金削减及其对健康研究影响的访谈。",
+    "credibility_score": 6.0,
+    "composite_score": 5.3,
+    "featured": false,
+    "id": 20591
+  },
+  {
+    "title": "New Freckle Project Report Examines 15 Years of Public Library Use",
+    "abstract": "<p>From EveryLibrary Institute: A new Freckle Project Report, &#8220;15 Years of IMLS Figures&#8221;, looks at national public library statistics from 2010 through 2024 and identifies a striking contrast: American public libraries have more facilities, more staff, and higher levels of funding than at any point in the period examined, while several major measures of physical [&#8230;]</p>\n<p>The post <a href=\"https://www.infodocket.com/2026/09/08/new-freckle-project-report-examines-15-years-of-public-library-use/\">New Freckle Project Report Examines 15 Years of Public Library Use</a> appeared first on <a href=\"https://www.infodocket.com\">Library Journal infoDOCKET</a>.</p>",
+    "date": "2026-09-08",
+    "link": "https://www.infodocket.com/2026/09/08/new-freckle-project-report-examines-15-years-of-public-library-use/",
+    "affiliations": "Institute: A new Freckle Project Report, &#8220;15 Years of IMLS Figures&#8221;, looks at national public library statistics from 2010 through 2024 and identifies a striking contrast: American public libraries have more facilities, more staff, and higher levels of funding than at any point in the period examined, while several major measures of physical [&#8230;]</p>\n<p>The post <a href=\"https://www.",
+    "source": "Infodocket",
+    "tier": "C",
+    "field": "library_news",
+    "content_type": "news",
+    "category": "行业动态",
+    "thinking": "该资讯报告了基于IMLS数据的最新公共图书馆长期统计研究，发布于2026年，时效性很强。内容直接聚焦公共图书馆的运营、资金和利用情况，与图书馆学核心业务高度相关。报告揭示了投入与实体服务使用量之间的反差，为图书馆管理、资源规划和未来服务设计提供了关键的实证依据和决策参考。",
+    "scores": {
+      "timeliness": 9,
+      "relevance": 9,
+      "information_value": 9
+    },
+    "one_sentence_summary": "一份新报告分析了美国公共图书馆15年数据，发现其资金和设施增加，但部分实体服务使用量却在下降。",
+    "credibility_score": 6.0,
+    "composite_score": 8.4,
+    "featured": true,
+    "id": 20599
+  },
+  {
     "title": "The Generative AI Gold Rush in Theoretical and Computational Research",
     "abstract": "arXiv:2609.04872v1 Announce Type: new \nAbstract: Generative AI is changing the production conditions of theoretical and computational research, but its sys tem level effects require measures that separate plat form growth, field specific divergence, and production structure. We assemble 2,080 monthly observations for twenty arXiv archives from January 2018 through Au gust 2026 and a separate pseudonymized Mathematics author panel. A regularized convex synthetic control fitted through December 2025 identifies the January August 2026 anomaly, while spatial placebos, prior year pseudo holdouts, donor refits, and alternative preperiods assess comparative robustness. Mathematics recorded 47,127 list entries, 33.5% above 2025 and 11.9% above a synthetic counterfactual of 42,113 entries. Qualified donor and preperiod designs yield 9.6% to 14.9%, and Mathematics has the largest RMSPE ratio among fifteen eligible placebo archives. Subfield growth is broad, with 29 of 30 primary math.* categories expanding. The author panel shows a marked thickening of the repeated output tail. The share of active author units produc ing at least five submissions rose from 2.45% to 3.80%, while the ten submission tail rose from 0.21% to 0.49%. These results document a new and unusually large 2026 Mathematics production regime shift. Its timing and production structure, combined with independent evi dence on AI diffusion and verifiable research tasks, are consistent with delayed diffusion and capability thresh old mechanisms. The comparative design identifies the anomaly, and separate triangulation evaluates AI related explanations. The findings locate verification, selection, and attention as central constraints for research gover nance.",
     "date": "2026-09-07",
@@ -826,6 +872,29 @@
     "composite_score": 6.1,
     "featured": false,
     "id": 20391
+  },
+  {
+    "title": "Can changing the way we talk about impact make research more impactful?",
+    "abstract": "<p>The way we talk about research impact, reflects assumptions about the processes underpinning it. Could changing this language make research more impactful?</p>\n<p>The post <a href=\"https://blogs.lse.ac.uk/impactofsocialsciences/2026/09/07/can-changing-the-way-we-talk-about-impact-make-research-more-impactful/\">Can changing the way we talk about impact make research more impactful?</a> first appeared on <a href=\"https://blogs.lse.ac.uk/impactofsocialsciences\">LSE Impact</a>.</p>",
+    "date": "2026-09-07",
+    "link": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/09/07/can-changing-the-way-we-talk-about-impact-make-research-more-impactful/",
+    "affiliations": "",
+    "source": "LSE Impact Blog",
+    "tier": "C",
+    "field": "academic_impact",
+    "content_type": "news",
+    "category": "观点评论",
+    "thinking": "该资讯探讨研究影响力的话语体系问题，属于学术交流与评价的范畴，与图情领域的信息传播和学术评价服务有一定关联。内容具有启发性，但发布时间为2026年，属于未来日期，时效性判断存在困难；其核心是观点性探讨，而非提供具体可操作的标准或案例。",
+    "scores": {
+      "timeliness": 5,
+      "relevance": 6,
+      "information_value": 6
+    },
+    "one_sentence_summary": "一篇探讨改变研究影响力的话语体系是否能提升研究实际影响力的观点性文章。",
+    "credibility_score": 6.0,
+    "composite_score": 5.8,
+    "featured": false,
+    "id": 20600
   },
   {
     "title": "Accountability, Integrity: AI Policy in Public Libraries (New Journal Article)",
@@ -11429,74 +11498,5 @@
     "composite_score": 6.3,
     "featured": false,
     "id": 17698
-  },
-  {
-    "title": "A Tale of Two Graphs: Separating Knowledge Exploration from Outline Structure for Open-Ended Deep Research",
-    "abstract": "arXiv:2602.13830v3 Announce Type: replace \nAbstract: Open-Ended Deep Research (OEDR) pushes LLM agents beyond short-form QA toward long-horizon workflows that iteratively search, connect, and synthesize evidence into structured reports. However, existing OEDR agents largely follow either linear ``search-then-generate'' accumulation or outline-centric planning. The former suffers from lost-in-the-middle failures as evidence grows, while the latter relies on the LLM to implicitly infer knowledge gaps from the outline alone, providing weak supervision for identifying missing relations and triggering targeted exploration. We present DualGraph memory, an architecture that separates what the agent knows from how it writes. DualGraph maintains two co-evolving graphs: an Outline Graph (OG), and a Knowledge Graph (KG), a semantic memory that stores fine-grained knowledge units, including core entities, concepts, and their relations. By analyzing the KG topology together with structural signals from the OG, DualGraph generates targeted search queries, enabling more efficient and comprehensive iterative knowledge-driven exploration and refinement.Across four established OEDR benchmarks, DualGraph consistently outperforms state-of-the-art baselines in report depth, breadth, and factual grounding; for example, it reaches a 53.08 RACE score on DeepResearch Bench with GPT-5. Moreover, ablation studies confirm the central role of the dual-graph design.",
-    "date": "2026-08-26",
-    "link": "https://arxiv.org/abs/2602.13830",
-    "affiliations": "",
-    "source": "arXiv - Information Retrieval",
-    "tier": "C",
-    "field": "information_retrieval",
-    "content_type": "paper",
-    "category": "AI应用",
-    "thinking": "该论文提出了一种创新的双图记忆架构，将知识探索与报告结构分离，以解决大语言模型在开放式深度研究中的核心挑战。其方法设计新颖，在多个基准测试中验证了有效性，但作为预印本，其方法论的严谨性（如实验可复现性）和针对图书馆等具体业务场景的落地路径尚不明确。",
-    "scores": {
-      "frontier_tech": 9,
-      "practical_value": 6,
-      "methodological_rigor": 7
-    },
-    "one_sentence_summary": "该研究提出一种双图记忆架构，通过分离知识图谱和提纲图谱来更有效地指导大语言模型进行深度研究并生成报告。",
-    "credibility_score": 6.0,
-    "composite_score": 6.3,
-    "featured": false,
-    "id": 17699
-  },
-  {
-    "title": "Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation",
-    "abstract": "arXiv:2603.10673v3 Announce Type: replace \nAbstract: Large language models (LLMs) have spurred interest in agent-based recommender systems, yet most agentic approaches remain user-centric: items stay passive entities whose exposure is a by-product of relevance ranking, which exacerbates exposure concentration and long-tail under-representation. We break this user-centric allocation of agency with a Tri-party LLM-agent Recommendation framework (TriRec). Responsibility is split deliberately: Stage 1 has each item generate self-promotion conditioned on the target user, which lowers cold-start barriers, while the exposure budget stays with the platform, whose Stage 2 sequential re-ranker balances relevance, item utility, and exposure fairness. On four public datasets TriRec improves accuracy, fairness, and item-level utility, with the accuracy gain significant on three of the four. A three-arm ablation at 50 candidates separates two levels of the mechanism on items that received no exposure during training: self-promotion drives the accuracy gain, and conditioning it on the target user adds further exposure, together raising these items' share of top-ranked exposure by 43.6% relative. Restricting promotions to catalogue-verifiable attributes cuts strong exaggeration to 0.5%/2.0% on two datasets while retaining 88.6%/92.0% of the accuracy gain. Our code is available at https://github.com/Marfekey/TriRec.",
-    "date": "2026-08-26",
-    "link": "https://arxiv.org/abs/2603.10673",
-    "affiliations": "",
-    "source": "arXiv - Information Retrieval",
-    "tier": "C",
-    "field": "information_retrieval",
-    "content_type": "paper",
-    "category": "AI应用",
-    "thinking": "该论文提出了一种基于大语言模型的三方智能体推荐框架，通过赋予物品自我推广能力来缓解传统用户中心推荐中的曝光集中和长尾物品代表不足问题，方法设计新颖且实验验证较为充分。但作为预印本论文，其实际在图书馆或信息机构中的落地场景尚不明确，且实验数据集和评估指标虽全面，但缺乏与更广泛推荐系统基准的深入对比。",
-    "scores": {
-      "frontier_tech": 9,
-      "practical_value": 6,
-      "methodological_rigor": 8
-    },
-    "one_sentence_summary": "该研究提出了一种让物品也能“自我推销”的新型推荐系统框架，在提升推荐准确性的同时，显著改善了长尾物品的曝光公平性。",
-    "credibility_score": 6.0,
-    "composite_score": 6.4,
-    "featured": false,
-    "id": 17700
-  },
-  {
-    "title": "Superintelligent Retrieval Agent: The Next Frontier of Agentic Retrieval",
-    "abstract": "arXiv:2605.06647v3 Announce Type: replace \nAbstract: Retrieval-augmented agents are increasingly the interface to large knowledge bases, yet most treat retrieval as a black box: they issue exploratory queries, inspect snippets, and reformulate until evidence emerges. This resembles how a newcomer searches an unfamiliar database rather than how an expert navigates it with strong priors about terminology and likely evidence, causing extra retrieval rounds, latency, and poor recall.\n  We introduce \\textit{Superintelligent Retrieval Agent} (SIRA), which casts \\emph{superintelligence} in retrieval as compressing multi-round exploratory search into a single corpus-discriminative retrieval action. SIRA does not merely ask which terms are relevant; it asks which terms separate the desired evidence from corpus-level confusers. Offline, an LLM enriches each document with missing search vocabulary; at query time, it predicts evidence vocabulary the query omits; and corpus statistics serve as tool calls that filter terms that are absent, overly common, or unlikely to create retrieval margin. The final step is a single weighted BM25 call combining the query with the validated expansion.\n  Across ten BEIR benchmarks, SIRA achieves the strongest average retrieval performance in our comparison, beating dense retrievers, learned sparse retrievers, and LLM search-agent baselines while using no relevance labels or retriever fine-tuning. On downstream QA, its retrieval-only answer coverage exceeds recent RL-trained agentic QA systems on NQ and HotpotQA. We also introduce \\textbf{BrowseComp-Wikipedia}, a hard-search benchmark of 232 BrowseComp-derived queries over a 25,587,229-document Wikipedia index. Even without index-time enrichment, using only grounded Wikipedia categories, SIRA outperforms multi-round Perplexity agents at every budget, reaching 9.70% Recall@1, 15.27% Recall@10, and 36.14% Recall@100.",
-    "date": "2026-08-26",
-    "link": "https://arxiv.org/abs/2605.06647",
-    "affiliations": "",
-    "source": "arXiv - Information Retrieval",
-    "tier": "C",
-    "field": "information_retrieval",
-    "content_type": "paper",
-    "category": "检索与推荐",
-    "thinking": "该论文提出了SIRA智能检索代理，将多轮探索式搜索压缩为单次检索，在BEIR基准测试中表现出色，技术前沿性高且方法严谨。然而，其依赖LLM进行词汇增强，在真实图书馆系统中部署可能面临计算成本和集成复杂性的挑战，业务落地价值相对受限。",
-    "scores": {
-      "frontier_tech": 9,
-      "practical_value": 6,
-      "methodological_rigor": 9
-    },
-    "one_sentence_summary": "该研究提出一种智能检索代理，通过预测缺失证据词汇并压缩搜索过程，在多个基准测试中实现了优于现有方法的检索性能。",
-    "credibility_score": 6.0,
-    "composite_score": 6.6,
-    "featured": false,
-    "id": 17701
   }
 ]

@@ -1,5 +1,22 @@
 [
   {
+    "date": "2026-09-09",
+    "summary": "今日图情领域的研究呈现出以人工智能应用为主导、深度融合信息计量与知识组织方法的鲜明特点。在AI应用方面，研究重点从通用能力评估转向特定场景的效能优化与公平性考量，例如探讨大语言模型在学术写作中的采纳模式及其对引用的影响、图书馆员在AI辅助信息检索中的干预作用，以及针对低资源金融、医疗物联网等领域的模型适应性改进。知识组织与计量研究则更注重动态演化过程的揭示与量化，通过语义几何、主题轨迹等方法分析科学范式与知识结构的变迁，并开始系统评估高影响力成果（如超被引论文、科学奖项）对现有评价体系的潜在影响。用户行为研究则借助动态网络分析等工具，深入在线社区探究意见领袖的形成机制。整体而言，领域研究正朝着场景深化、过程动态化与评估精细化方向发展。",
+    "highlights": [
+      "论文｜Who gets seen in the age of AI? Adoption patterns of large language models in scholarly writing and citation outcomes｜实证分析学者使用大语言模型写作对其论文被引情况的影响，为理解AI工具与学术影响力的关系提供了新证据。",
+      "论文｜A semantic geometry for uncovering paradigm dynamics via scientific publications｜提出一种语义几何模型，为从大规模科学文献中可视化与分析科学范式的演变提供了新方法。",
+      "论文｜AI-mediated information intermediation in collaborative problem-solving: Effects of librarian guidance intensity and cognitive authority perceptions on student teams' creative outcomes｜揭示了在AI辅助的协作信息检索中，图书馆员专业指导的强度与学生对其权威的认知如何共同影响团队的创意产出。",
+      "动态｜Exploring the impact of super-cited papers on counting methods, counting inflation and university rankings: Evidence from engineering｜以工程领域为例，实证揭示了超高被引论文如何影响文献计量指标与大学排名，引发对评价方法稳健性的思考。",
+      "动态｜Community's lifeline: Dynamically identifying the short-term emergence and long-term survival of opinion leaders in diabetes online communities｜应用动态网络分析方法，揭示了健康在线社区中意见领袖的动态生命周期，为社区管理与健康信息传播提供了依据。",
+      "趋势判断｜图情领域AI研究正从通用能力验证转向特定场景（如低资源金融、医疗物联网）的模型适应性、公平性与人机协同效能优化。"
+    ],
+    "stats": {
+      "papers": 127,
+      "news": 128,
+      "featured": 68
+    }
+  },
+  {
     "date": "2026-09-08",
     "summary": "今日图情领域的研究呈现出以人工智能深度应用为核心、兼顾技术与人文社会影响的鲜明特征。在技术层面，研究重点从通用模型转向面向特定领域（如医学、金融、交通）的优化与评估，强调在低资源、高敏感（如隐私、公平性）场景下的可靠性与适应性。例如，有研究致力于提升医学问答的准确性，或构建评估模型公平性的测试平台。同时，知识增强技术（如知识图谱的模式挖掘、语义联邦学习）持续推动检索推荐与数据分析的智能化。在应用与影响层面，研究关注人机协同（如馆员在AI中介环境中的角色）、评价体系（如超高被引文献对排名的影响）以及信息传播的社会维度（如政治广告策略），体现了图情学科连接技术、信息与社会的桥梁作用。",
     "highlights": [
